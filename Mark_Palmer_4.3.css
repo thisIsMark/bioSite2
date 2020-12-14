@@ -77,11 +77,12 @@ nav a {
   display: table;
 }
 
+/* footer edited */
 footer {
-  height: 10em;
+  height: 6em;
   width: 100%;
-  padding-top: 3%;
+  padding-top: 2%;
   text-align: center;
-  margin-top: 25em;
+  margin-top: 12em;
   background-color: rgb(19, 18, 31);
 }
